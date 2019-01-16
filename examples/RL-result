@@ -1,0 +1,929 @@
+('s ', '000', ' a ', 0, ' r ', 0, ' s_ ', '000', 'avg_r ', 0.0)
+slot:  1  avg power:  -0.890559998567  sensing status:  2
+('s ', '000', ' a ', 0, ' r ', 0, ' s_ ', '001', 'avg_r ', 0.0)
+slot:  2  avg power:  -57.0942096146  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.0)
+slot:  0  avg power:  -0.412984518065  sensing status:  2
+('s ', '010', ' a ', 1, ' r ', -1, ' s_ ', '100', 'avg_r ', -0.01)
+slot:  1  avg power:  -0.972257550827  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 9.99999999999994e-05)
+slot:  2  avg power:  -57.1601202272  sensing status:  1
+('s ', '001', ' a ', 1, ' r ', -1, ' s_ ', '010', 'avg_r ', -0.009901)
+slot:  0  avg power:  -0.421079426171  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', -0.00980199)
+slot:  1  avg power:  -0.44378796983  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.0002960298999999996)
+slot:  2  avg power:  -57.0969285802  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.0002930696009999996)
+slot:  0  avg power:  -0.650537347179  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.0002901389049899996)
+slot:  1  avg power:  -0.487398319595  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.010287237515940099)
+slot:  2  avg power:  -57.1025086223  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.010184365140780699)
+slot:  0  avg power:  -0.816060602164  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.010082521489372892)
+slot:  1  avg power:  -1.03044291935  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.019981696274479162)
+slot:  2  avg power:  -57.2259807924  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.01978187931173437)
+slot:  0  avg power:  -0.979168529467  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.019584060518617025)
+slot:  1  avg power:  -0.411976587054  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.029388219913430852)
+slot:  2  avg power:  -57.0050520059  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.029094337714296543)
+slot:  0  avg power:  -0.690900309837  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.02880339433715358)
+slot:  1  avg power:  -0.580022282849  sensing status:  2
+('s ', '100', ' a ', 0, ' r ', 0, ' s_ ', '001', 'avg_r ', 0.02851536039378204)
+slot:  2  avg power:  -57.1201900836  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.028230206789844222)
+slot:  0  avg power:  -0.831652256582  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.02794790472194578)
+slot:  1  avg power:  -0.873409408089  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.03766842567472632)
+slot:  2  avg power:  -57.0689397253  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.03729174141797906)
+slot:  0  avg power:  -0.799982553686  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.03691882400379927)
+slot:  1  avg power:  -0.922689689906  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.046549635763761275)
+slot:  2  avg power:  -57.0841981012  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.046084139406123666)
+slot:  0  avg power:  -0.478892461459  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.04562329801206243)
+slot:  1  avg power:  -0.55147869814  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.055167065031941805)
+slot:  2  avg power:  -57.0724076148  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.054615394381622384)
+slot:  0  avg power:  -0.633822561525  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.05406924043780616)
+slot:  1  avg power:  -0.978872685844  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.0635285480334281)
+slot:  2  avg power:  -57.0606572725  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.06289326255309381)
+slot:  0  avg power:  -0.978676679092  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.062264329927562874)
+slot:  1  avg power:  -0.399856248538  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.07164168662828724)
+slot:  2  avg power:  -57.1183189011  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.07092526976200436)
+slot:  0  avg power:  -0.440817763016  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.07021601706438432)
+slot:  1  avg power:  -0.527646772195  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', -1, ' s_ ', '000', 'avg_r ', 0.05951385689374048)
+slot:  2  avg power:  -0.510171925164  sensing status:  2
+('s ', '000', ' a ', 0, ' r ', 0, ' s_ ', '000', 'avg_r ', 0.058918718324803075)
+slot:  0  avg power:  -0.467636963207  sensing status:  2
+('s ', '000', ' a ', 0, ' r ', 0, ' s_ ', '000', 'avg_r ', 0.05832953114155504)
+slot:  1  avg power:  -0.495113851127  sensing status:  2
+('s ', '000', ' a ', 0, ' r ', 0, ' s_ ', '001', 'avg_r ', 0.05774623583013949)
+slot:  2  avg power:  -57.0488033259  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.057168773471838095)
+slot:  0  avg power:  -0.806217908996  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.05659708573711971)
+slot:  1  avg power:  -0.470588826985  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.06603111487974851)
+slot:  2  avg power:  -57.084311785  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.06537080373095103)
+slot:  0  avg power:  -0.587831839882  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.06471709569364152)
+slot:  1  avg power:  -0.55710727078  sensing status:  2
+('s ', '100', ' a ', 0, ' r ', 0, ' s_ ', '001', 'avg_r ', 0.0640699247367051)
+slot:  2  avg power:  -57.0582649886  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.06342922548933805)
+slot:  0  avg power:  -0.684108688338  sensing status:  2
+('s ', '010', ' a ', 1, ' r ', -1, ' s_ ', '100', 'avg_r ', 0.05279493323444467)
+slot:  1  avg power:  -0.562618850209  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.06226698390210022)
+slot:  2  avg power:  -57.1768324421  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.061644314063079214)
+slot:  0  avg power:  -0.953868392758  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.06102787092244842)
+slot:  1  avg power:  -0.526681952458  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.07041759221322394)
+slot:  2  avg power:  -57.2278177649  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.06971341629109169)
+slot:  0  avg power:  -0.887807070885  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.06901628212818077)
+slot:  1  avg power:  -0.692049413333  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.07832611930689895)
+slot:  2  avg power:  -57.1139150233  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.07754285811382997)
+slot:  0  avg power:  -0.925620070709  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.07676742953269167)
+slot:  1  avg power:  -0.878996240623  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.08599975523736475)
+slot:  2  avg power:  -57.0805679597  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.0851397576849911)
+slot:  0  avg power:  -0.595924902573  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.0842883601081412)
+slot:  1  avg power:  -0.937237703226  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.09344547650705978)
+slot:  2  avg power:  -57.0135360535  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.09251102174198918)
+slot:  0  avg power:  -0.65055292369  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.09158591152456928)
+slot:  1  avg power:  -0.498430709352  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.10067005240932358)
+slot:  2  avg power:  -57.0504560883  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.09966335188523034)
+slot:  0  avg power:  -0.508402943957  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.09866671836637804)
+slot:  1  avg power:  -0.525271879679  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.10768005118271426)
+slot:  2  avg power:  -57.1717888202  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.10660325067088712)
+slot:  0  avg power:  -0.630370025102  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.10553721816417824)
+slot:  1  avg power:  -0.687152917134  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.11448184598253645)
+slot:  2  avg power:  -56.9986815797  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.11333702752271109)
+slot:  0  avg power:  -0.876809132156  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.11220365724748398)
+slot:  1  avg power:  -0.817372754351  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.12108162067500913)
+slot:  2  avg power:  -57.0674837528  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.11987080446825904)
+slot:  0  avg power:  -0.75726547336  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.11867209642357644)
+slot:  1  avg power:  -0.887741861605  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.1274853754593407)
+slot:  2  avg power:  -57.1853862082  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.12621052170474728)
+slot:  0  avg power:  -0.4807447676  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.1249484164876998)
+slot:  1  avg power:  -0.472762234198  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.13369893232282282)
+slot:  2  avg power:  -57.1014750503  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.13236194299959458)
+slot:  0  avg power:  -0.970558356216  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.13103832356959863)
+slot:  1  avg power:  -0.732319338966  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.13972794033390265)
+slot:  2  avg power:  -57.1296813237  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.13833066093056362)
+slot:  0  avg power:  -0.929869925932  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.13694735432125799)
+slot:  1  avg power:  -0.561361931298  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.14557788077804543)
+slot:  2  avg power:  -57.0627032675  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.14412210197026498)
+slot:  0  avg power:  -0.922332151789  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.14268088095056233)
+slot:  1  avg power:  -0.961250635851  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.1512540721410567)
+slot:  2  avg power:  -57.0128304457  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.14974153141964613)
+slot:  0  avg power:  -0.964648346137  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.14824411610544966)
+slot:  1  avg power:  -0.80052260607  sensing status:  2
+('s ', '100', ' a ', 0, ' r ', 0, ' s_ ', '001', 'avg_r ', 0.14676167494439515)
+slot:  2  avg power:  -57.1294390318  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.1452940581949512)
+slot:  0  avg power:  -0.473803271209  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.1438411176130017)
+slot:  1  avg power:  -0.958567775752  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.15240270643687168)
+slot:  2  avg power:  -57.144507314  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.15087867937250296)
+slot:  0  avg power:  -0.717386920431  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.14936989257877792)
+slot:  1  avg power:  -0.508475706633  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.15787619365299016)
+slot:  2  avg power:  -57.0463171573  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.15629743171646027)
+slot:  0  avg power:  -0.700605494132  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.15473445739929567)
+slot:  1  avg power:  -0.50072464106  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.1631871128253027)
+slot:  2  avg power:  -57.1893845893  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.16155524169704968)
+slot:  0  avg power:  -0.509142762836  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.15993968928007918)
+slot:  1  avg power:  -0.945075082717  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.1683402923872784)
+slot:  2  avg power:  -57.184937708  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.16665688946340562)
+slot:  0  avg power:  -0.491454878008  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.16499032056877155)
+slot:  1  avg power:  -0.812166272185  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.17334041736308384)
+slot:  2  avg power:  -57.1000371723  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.17160701318945298)
+slot:  0  avg power:  -0.4847006203  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.16989094305755845)
+slot:  1  avg power:  -0.782890603322  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.17819203362698288)
+slot:  2  avg power:  -57.1923990332  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.17641011329071304)
+slot:  0  avg power:  -0.898138947209  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.17464601215780592)
+slot:  1  avg power:  -0.441868566147  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.18289955203622787)
+slot:  2  avg power:  -57.0135807928  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.1810705565158656)
+slot:  0  avg power:  -0.495749328373  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.17925985095070693)
+slot:  1  avg power:  -0.458101332236  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.18746725244119986)
+slot:  2  avg power:  -57.1054571153  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.18559257991678785)
+slot:  0  avg power:  -0.64722945637  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.18373665411761997)
+slot:  1  avg power:  -0.517908030715  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.19189928757644378)
+slot:  2  avg power:  -56.9334312932  sensing status:  1
+('s ', '001', ' a ', 1, ' r ', -1, ' s_ ', '010', 'avg_r ', 0.17998029470067933)
+slot:  0  avg power:  -0.577020109834  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.17818049175367254)
+slot:  1  avg power:  -0.536372879163  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.1863986868361358)
+slot:  2  avg power:  -57.0242602928  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.18453469996777444)
+slot:  0  avg power:  -0.573925125547  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.18268935296809669)
+slot:  1  avg power:  -0.926729144782  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.19086245943841573)
+slot:  2  avg power:  -56.9610779791  sensing status:  1
+('s ', '001', ' a ', 1, ' r ', -1, ' s_ ', '010', 'avg_r ', 0.17895383484403157)
+slot:  0  avg power:  -0.455811857425  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.17716429649559126)
+slot:  1  avg power:  -0.633265063809  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.18539265353063536)
+slot:  2  avg power:  -56.9817312667  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.183538726995329)
+slot:  0  avg power:  -0.934980209611  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.1817033397253757)
+slot:  1  avg power:  -0.564713661339  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.18988630632812195)
+slot:  2  avg power:  -56.7858664615  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.18798744326484074)
+slot:  0  avg power:  -0.738118731482  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.18610756883219232)
+slot:  1  avg power:  -0.763884725636  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.1942464931438704)
+slot:  2  avg power:  -56.8908391244  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.1923040282124317)
+slot:  0  avg power:  -0.8009768925  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.1903809879303074)
+slot:  1  avg power:  -0.788597219431  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.19847717805100432)
+slot:  2  avg power:  -56.8061257995  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.19649240627049427)
+slot:  0  avg power:  -0.712452914404  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.19452748220778934)
+slot:  1  avg power:  -0.725492200565  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.20258220738571145)
+slot:  2  avg power:  -56.9608690279  sensing status:  1
+('s ', '001', ' a ', 1, ' r ', -1, ' s_ ', '010', 'avg_r ', 0.19055638531185431)
+slot:  0  avg power:  -0.445617653894  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.18865082145873577)
+slot:  1  avg power:  -0.497824055279  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.19676431324414842)
+slot:  2  avg power:  -56.953521963  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.19479667011170693)
+slot:  0  avg power:  -0.854469113082  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.19284870341058985)
+slot:  1  avg power:  -0.515318517707  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.20092021637648397)
+slot:  2  avg power:  -57.1723962784  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.19891101421271912)
+slot:  0  avg power:  -0.518183527517  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.19692190407059193)
+slot:  1  avg power:  -0.631718367902  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.204952685029886)
+slot:  2  avg power:  -56.8657470568  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.20290315817958715)
+slot:  0  avg power:  -0.759521847743  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.20087412659779127)
+slot:  1  avg power:  -0.744823481549  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.20886538533181337)
+slot:  2  avg power:  -56.9451101914  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.20677673147849523)
+slot:  0  avg power:  -0.629895474843  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2047089641637103)
+slot:  1  avg power:  -0.762569507224  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2126618745220732)
+slot:  2  avg power:  -57.1359478393  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.21053525577685245)
+slot:  0  avg power:  -0.741494237289  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.20842990321908392)
+slot:  1  avg power:  -0.382602908471  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.21634560418689308)
+slot:  2  avg power:  -57.0841981023  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.21418214814502415)
+slot:  0  avg power:  -0.736348109048  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2120403266635739)
+slot:  1  avg power:  -0.53065452718  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.21991992339693817)
+slot:  2  avg power:  -57.0870928206  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.21772072416296878)
+slot:  0  avg power:  -0.693214652354  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.21554351692133908)
+slot:  1  avg power:  -0.625087569082  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.22338808175212568)
+slot:  2  avg power:  -57.0716614659  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.22115420093460442)
+slot:  0  avg power:  -0.349064747291  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.21894265892525838)
+slot:  1  avg power:  -0.724101054163  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2267532323360058)
+slot:  2  avg power:  -57.160890146  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.22448570001264576)
+slot:  0  avg power:  -0.61259634572  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.22224084301251928)
+slot:  1  avg power:  -0.528170160429  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2300184345823941)
+slot:  2  avg power:  -57.0356610143  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.22771825023657016)
+slot:  0  avg power:  -0.601115482954  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.22544106773420447)
+slot:  1  avg power:  -0.630457884546  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.23318665705686242)
+slot:  2  avg power:  -56.9359235636  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2308547904862938)
+slot:  0  avg power:  -0.382825150186  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.22854624258143086)
+slot:  1  avg power:  -0.398841143949  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.23626078015561655)
+slot:  2  avg power:  -57.0651000538  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.23389817235406038)
+slot:  0  avg power:  -0.711163656272  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.23155919063051977)
+slot:  1  avg power:  -0.369947180232  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.23924359872421458)
+slot:  2  avg power:  -56.9329541683  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.23685116273697243)
+slot:  0  avg power:  -0.662094339811  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2344826511096027)
+slot:  1  avg power:  -0.748863499344  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2421378245985067)
+slot:  2  avg power:  -56.8581096813  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.23971644635252162)
+slot:  0  avg power:  -0.448281824135  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2373192818889964)
+slot:  1  avg power:  -0.349237493894  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.24494608907010643)
+slot:  2  avg power:  -57.0077847554  sensing status:  1
+('s ', '001', ' a ', 1, ' r ', -1, ' s_ ', '010', 'avg_r ', 0.23249662817940536)
+slot:  0  avg power:  -0.81886986271  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.23017166189761132)
+slot:  1  avg power:  -0.495612730959  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.23786994527863523)
+slot:  2  avg power:  -57.101742758  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.23549124582584888)
+slot:  0  avg power:  -0.73252987402  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.23313633336759038)
+slot:  1  avg power:  -0.637929087912  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2408049700339145)
+slot:  2  avg power:  -57.110372257  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.23839692033357535)
+slot:  0  avg power:  -0.32639650198  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2360129511302396)
+slot:  1  avg power:  -0.403912093943  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2436528216189372)
+slot:  2  avg power:  -57.1240954828  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24121629340274783)
+slot:  0  avg power:  -0.763143597942  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.23880413046872034)
+slot:  1  avg power:  -0.351446227019  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.24641608916403315)
+slot:  2  avg power:  -57.0467187789  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24395192827239282)
+slot:  0  avg power:  -0.312868540975  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2415124089896689)
+slot:  1  avg power:  -0.549130511883  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2490972848997722)
+slot:  2  avg power:  -57.1003110157  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2466063120507745)
+slot:  0  avg power:  -0.348427467918  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24414024893026676)
+slot:  1  avg power:  -0.328641433298  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2516988464409641)
+slot:  2  avg power:  -56.971542389  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24918185797655443)
+slot:  0  avg power:  -0.390771033937  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24669003939678888)
+slot:  1  avg power:  -0.74197788684  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.254223139002821)
+slot:  2  avg power:  -57.1250760309  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.25168090761279277)
+slot:  0  avg power:  -0.777140591711  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24916409853666485)
+slot:  1  avg power:  -0.819622962088  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2566724575512982)
+slot:  2  avg power:  -57.0372638052  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2541057329757852)
+slot:  0  avg power:  -0.612702251453  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.25156467564602736)
+slot:  1  avg power:  -0.47792071672  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2590490288895671)
+slot:  2  avg power:  -56.9412724014  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2564585386006714)
+slot:  0  avg power:  -0.691862277073  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2538939532146647)
+slot:  1  avg power:  -0.29956571967  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.26135501368251807)
+slot:  2  avg power:  -57.08039242  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2587414635456929)
+slot:  0  avg power:  -0.669862856645  sensing status:  2
+('s ', '010', ' a ', 1, ' r ', -1, ' s_ ', '100', 'avg_r ', 0.24615404891023596)
+slot:  1  avg power:  -0.704746158118  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2536925084211336)
+slot:  2  avg power:  -57.0834871289  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2511555833369223)
+slot:  0  avg power:  -0.418134158899  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24864402750355305)
+slot:  1  avg power:  -0.745403978626  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2561575872285175)
+slot:  2  avg power:  -56.9955089863  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.25359601135623233)
+slot:  0  avg power:  -0.59793236125  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.25106005124267)
+slot:  1  avg power:  -0.709619468026  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.25854945073024327)
+slot:  2  avg power:  -56.9766852575  sensing status:  1
+('s ', '001', ' a ', 1, ' r ', -1, ' s_ ', '010', 'avg_r ', 0.24596395622294082)
+slot:  0  avg power:  -0.659193968378  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2435043166607114)
+slot:  1  avg power:  -0.416809756699  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2510692734941043)
+slot:  2  avg power:  -56.9172782099  sensing status:  1
+('s ', '001', ' a ', 1, ' r ', -1, ' s_ ', '010', 'avg_r ', 0.23855858075916325)
+slot:  0  avg power:  -0.683285165997  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.23617299495157162)
+slot:  1  avg power:  -0.311751364667  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2438112650020559)
+slot:  2  avg power:  -56.972998782  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24137315235203535)
+slot:  0  avg power:  -0.454100259636  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.23895942082851498)
+slot:  1  avg power:  -0.543669657674  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.24656982662022983)
+slot:  2  avg power:  -57.0533530253  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24410412835402753)
+slot:  0  avg power:  -0.371140888331  sensing status:  2
+('s ', '010', ' a ', 1, ' r ', -1, ' s_ ', '100', 'avg_r ', 0.23166308707048724)
+slot:  1  avg power:  -0.585595433808  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.23934645619978237)
+slot:  2  avg power:  -57.0850580436  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.23695299163778455)
+slot:  0  avg power:  -0.693378039922  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2345834617214067)
+slot:  1  avg power:  -0.495315859138  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.24223762710419264)
+slot:  2  avg power:  -56.8793957659  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.23981525083315072)
+slot:  0  avg power:  -0.571787917263  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.23741709832481922)
+slot:  1  avg power:  -0.315122106656  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.24504292734157104)
+slot:  2  avg power:  -57.1638701385  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24259249806815533)
+slot:  0  avg power:  -0.529670878967  sensing status:  2
+('s ', '010', ' a ', 1, ' r ', -1, ' s_ ', '100', 'avg_r ', 0.23016657308747376)
+slot:  1  avg power:  -0.476109205171  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.23786490735659904)
+slot:  2  avg power:  -57.0421985369  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.23548625828303305)
+slot:  0  avg power:  -0.656922000401  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.23313139570020272)
+slot:  1  avg power:  -0.342186688429  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2408000817432007)
+slot:  2  avg power:  -57.0246517221  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2383920809257687)
+slot:  0  avg power:  -0.694799213249  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.236008160116511)
+slot:  1  avg power:  -0.36675593243  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2436480785153459)
+slot:  2  avg power:  -57.0992862604  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24121159773019243)
+slot:  0  avg power:  -0.721485507722  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2387994817528905)
+slot:  1  avg power:  -0.718810171448  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2464114869353616)
+slot:  2  avg power:  -57.1100603489  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.243947372066008)
+slot:  0  avg power:  -0.679742884149  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24150789834534792)
+slot:  1  avg power:  -0.382712785814  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.24909281936189445)
+slot:  2  avg power:  -57.0465097663  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2466018911682755)
+slot:  0  avg power:  -0.630713761069  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24413587225659275)
+slot:  1  avg power:  -0.358838723294  sensing status:  2
+('s ', '100', ' a ', 0, ' r ', 0, ' s_ ', '001', 'avg_r ', 0.24169451353402682)
+slot:  2  avg power:  -56.3099112762  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.23927756839868655)
+slot:  0  avg power:  -0.688792003798  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.23688479271469967)
+slot:  1  avg power:  -0.241008294964  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.24451594478755267)
+slot:  2  avg power:  -57.0832184717  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24207078533967716)
+slot:  0  avg power:  -0.621507852283  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2396500774862804)
+slot:  1  avg power:  -0.601906634351  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2472535767114176)
+slot:  2  avg power:  -57.1913756226  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24478104094430342)
+slot:  0  avg power:  -0.24471899102  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2423332305348604)
+slot:  1  avg power:  -0.682031697681  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2499098982295118)
+slot:  2  avg power:  -57.0451821479  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24741079924721668)
+slot:  0  avg power:  -0.336620154484  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24493669125474452)
+slot:  1  avg power:  -0.249401915794  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.25248732434219706)
+slot:  2  avg power:  -57.1119986979  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2499624510987751)
+slot:  0  avg power:  -0.55976749026  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24746282658778734)
+slot:  1  avg power:  -0.593036276877  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.25498819832190944)
+slot:  2  avg power:  -56.9798542137  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.25243831633869035)
+slot:  0  avg power:  -0.353495484948  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24991393317530344)
+slot:  1  avg power:  -0.255570175242  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2574147938435504)
+slot:  2  avg power:  -57.0906828781  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2548406459051149)
+slot:  0  avg power:  -0.69539367862  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.25229223944606377)
+slot:  1  avg power:  -0.370573758669  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2597693170516031)
+slot:  2  avg power:  -57.1935138283  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.25717162388108705)
+slot:  0  avg power:  -0.35569664818  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2545999076422762)
+slot:  1  avg power:  -0.58190016273  sensing status:  2
+('s ', '100', ' a ', 0, ' r ', 0, ' s_ ', '001', 'avg_r ', 0.2520539085658534)
+slot:  2  avg power:  -57.2204766741  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2495333694801949)
+slot:  0  avg power:  -0.590494393538  sensing status:  2
+('s ', '010', ' a ', 1, ' r ', -1, ' s_ ', '100', 'avg_r ', 0.23703803578539293)
+slot:  1  avg power:  -0.573274506339  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.24466765542753902)
+slot:  2  avg power:  -57.1287728201  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24222097887326363)
+slot:  0  avg power:  -0.694398187985  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.239798769084531)
+slot:  1  avg power:  -0.671196804742  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.24740078139368568)
+slot:  2  avg power:  -57.0781399186  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.24492677357974882)
+slot:  0  avg power:  -0.642464164838  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24247750584395134)
+slot:  1  avg power:  -0.695476107882  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2500527307855118)
+slot:  2  avg power:  -57.0773267485  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2475522034776567)
+slot:  0  avg power:  -0.480005563113  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2450766814428801)
+slot:  1  avg power:  -0.705869729823  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2526259146284513)
+slot:  2  avg power:  -57.1122275289  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2500996554821668)
+slot:  0  avg power:  -0.634972585247  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.24759865892734512)
+slot:  1  avg power:  -0.650433613236  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2551226723380717)
+slot:  2  avg power:  -57.1390196066  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.25257144561469097)
+slot:  0  avg power:  -0.681462790698  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.25004573115854406)
+slot:  1  avg power:  -0.689633062055  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.25754527384695863)
+slot:  2  avg power:  -57.0300375464  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.25496982110848904)
+slot:  0  avg power:  -0.214159285782  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2524201228974041)
+slot:  1  avg power:  -0.680002051088  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.25989592166843006)
+slot:  2  avg power:  -57.1897848402  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.25729696245174577)
+slot:  0  avg power:  -0.325593278991  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2547239928272283)
+slot:  1  avg power:  -0.431812113073  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.26217675289895603)
+slot:  2  avg power:  -57.155665372  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.25955498536996646)
+slot:  0  avg power:  -0.358183334632  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2569594355162668)
+slot:  1  avg power:  -0.274377118601  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.26438984116110414)
+slot:  2  avg power:  -57.1330621974  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2617459427494931)
+slot:  0  avg power:  -0.681390953788  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.25912848332199817)
+slot:  1  avg power:  -0.503797437174  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2665371984887782)
+slot:  2  avg power:  -57.1909413324  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2638718265038904)
+slot:  0  avg power:  -0.544852563645  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2612331082388515)
+slot:  1  avg power:  -0.647047836246  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.268620777156463)
+slot:  2  avg power:  -57.22466549  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.26593456938489834)
+slot:  0  avg power:  -0.421686604075  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.26327522369104933)
+slot:  1  avg power:  -0.667796667528  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.27064247145413883)
+slot:  2  avg power:  -57.1665656741  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2679360467395974)
+slot:  0  avg power:  -0.183935992191  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.26525668627220145)
+slot:  1  avg power:  -0.674351885525  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.27260411940947943)
+slot:  2  avg power:  -57.1501698506  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2698780782153846)
+slot:  0  avg power:  -0.36855717187  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.26717929743323077)
+slot:  1  avg power:  -0.196089633252  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2745075044588985)
+slot:  2  avg power:  -57.1107424134  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2717624294143095)
+slot:  0  avg power:  -0.534983360511  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.26904480512016643)
+slot:  1  avg power:  -0.298661342988  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2763543570689648)
+slot:  2  avg power:  -57.1638364511  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.27359081349827513)
+slot:  0  avg power:  -0.528557980158  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2708549053632924)
+slot:  1  avg power:  -0.668367764328  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.27814635630965945)
+slot:  2  avg power:  -57.1863341421  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.27536489274656284)
+slot:  0  avg power:  -0.664381316233  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2726112438190972)
+slot:  1  avg power:  -0.619502815049  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2798851313809062)
+slot:  2  avg power:  -57.1171607611  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2770862800670971)
+slot:  0  avg power:  -0.243816671456  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.27431541726642616)
+slot:  1  avg power:  -0.331270532175  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.28157226309376193)
+slot:  2  avg power:  -57.1034469439  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.27875654046282433)
+slot:  0  avg power:  -0.624059125004  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.27596897505819606)
+slot:  1  avg power:  -0.631373105573  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.28320928530761413)
+slot:  2  avg power:  -57.1204089304  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.280377192454538)
+slot:  0  avg power:  -0.214384663135  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2775734205299926)
+slot:  1  avg power:  -0.638642920209  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2847976863246927)
+slot:  2  avg power:  -56.9121475605  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.28194970946144576)
+slot:  0  avg power:  -0.260005431898  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2791302123668313)
+slot:  1  avg power:  -0.530912529403  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.286338910243163)
+slot:  2  avg power:  -57.1129910853  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2834755211407314)
+slot:  0  avg power:  -0.148761574692  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2806407659293241)
+slot:  1  avg power:  -0.615562845239  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.28783435827003084)
+slot:  2  avg power:  -57.1360858955  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2849560146873305)
+slot:  0  avg power:  -0.650201074298  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2821064545404572)
+slot:  1  avg power:  -0.183851761342  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2892853899950526)
+slot:  2  avg power:  -56.9693395906  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.28639253609510207)
+slot:  0  avg power:  -0.595722573515  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.28352861073415103)
+slot:  1  avg power:  -0.276360408629  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2906933246268095)
+slot:  2  avg power:  -57.0456881498  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2877863913805414)
+slot:  0  avg power:  -0.163816872331  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.284908527466736)
+slot:  1  avg power:  -0.14735098264  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.29205944219206864)
+slot:  2  avg power:  -57.1400433105  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.289138847770148)
+slot:  0  avg power:  -0.462995502761  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2862474592924465)
+slot:  1  avg power:  -0.320009997626  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.293384984699522)
+slot:  2  avg power:  -57.175656478  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.29045113485252677)
+slot:  0  avg power:  -0.459366889371  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2875466235040015)
+slot:  1  avg power:  -0.17664032475  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2946711572689615)
+slot:  2  avg power:  -57.1045453636  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2917244456962719)
+slot:  0  avg power:  -0.12065966185  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.28880720123930914)
+slot:  1  avg power:  -0.166531469591  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.29591912922691604)
+slot:  2  avg power:  -57.1672166478  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.29295993793464686)
+slot:  0  avg power:  -0.408184397786  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2900303385553004)
+slot:  1  avg power:  -0.298782598175  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.2971300351697474)
+slot:  2  avg power:  -56.8580370819  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.29415873481804994)
+slot:  0  avg power:  -0.178221362487  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.29121714746986943)
+slot:  1  avg power:  -0.150631840321  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.29830497599517075)
+slot:  2  avg power:  -57.1694188666  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.295321926235219)
+slot:  0  avg power:  -0.535427079213  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2923687069728668)
+slot:  1  avg power:  -0.534064569599  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.29944501990313815)
+slot:  2  avg power:  -56.9605998179  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.29645056970410677)
+slot:  0  avg power:  -0.19204770414  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2934860640070657)
+slot:  1  avg power:  -0.125107246934  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.30055120336699503)
+slot:  2  avg power:  -57.2100361208  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.2975456913333251)
+slot:  0  avg power:  -0.623859459651  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.29457023441999186)
+slot:  1  avg power:  -0.633216362881  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.30162453207579193)
+slot:  2  avg power:  -57.1328197194  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.298608286755034)
+slot:  0  avg power:  -0.106629909576  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.2956222038874836)
+slot:  1  avg power:  -0.142827829177  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.30266598184860877)
+slot:  2  avg power:  -57.1017303076  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.29963932203012267)
+slot:  0  avg power:  -0.216227117312  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.29664292880982146)
+slot:  1  avg power:  -0.547282980769  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.30367649952172326)
+slot:  2  avg power:  -57.1184314043  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.30063973452650605)
+slot:  0  avg power:  -0.600671030463  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.29763333718124096)
+slot:  1  avg power:  -0.534601177851  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.30465700380942856)
+slot:  2  avg power:  -57.0288496411  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3016104337713343)
+slot:  0  avg power:  -0.301662356223  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.29859432943362096)
+slot:  1  avg power:  -0.434545820065  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.30560838613928476)
+slot:  2  avg power:  -57.1413101943  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3025523022778919)
+slot:  0  avg power:  -0.312441419946  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.299526779255113)
+slot:  1  avg power:  -0.157818930407  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.30653151146256186)
+slot:  2  avg power:  -57.1346323325  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.30346619634793626)
+slot:  0  avg power:  -0.379047974398  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3004315343844569)
+slot:  1  avg power:  -0.0702784255349  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3074272190406123)
+slot:  2  avg power:  -57.1534932145  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3043529468502062)
+slot:  0  avg power:  -0.205869191176  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.30130941738170414)
+slot:  1  avg power:  -0.515976619461  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3082963232078871)
+slot:  2  avg power:  -57.0921673615  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.30521335997580823)
+slot:  0  avg power:  -0.0730781995622  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.30216122637605014)
+slot:  1  avg power:  -0.598305451782  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.30913961411228963)
+slot:  2  avg power:  -57.1229191138  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3060482179711667)
+slot:  0  avg power:  -0.50272837081  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.30298773579145505)
+slot:  1  avg power:  -0.127858953382  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3099578584335405)
+slot:  2  avg power:  -57.1903905889  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3068582798492051)
+slot:  0  avg power:  -0.0961784888349  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.30378969705071307)
+slot:  1  avg power:  -0.205703163702  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3107518000802059)
+slot:  2  avg power:  -57.1265764944  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.30764428207940386)
+slot:  0  avg power:  -0.0358623056717  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3045678392586098)
+slot:  1  avg power:  -0.0597986320099  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3115221608660237)
+slot:  2  avg power:  -57.1780235046  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.30840693925736345)
+slot:  0  avg power:  -0.0762144858275  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3053228698647898)
+slot:  1  avg power:  -0.127021083039  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3122696411661419)
+slot:  2  avg power:  -57.1450900074  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3091469447544805)
+slot:  0  avg power:  -0.631303873236  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3060554753069357)
+slot:  1  avg power:  -0.624416063483  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.31299492055386635)
+slot:  2  avg power:  -57.1497774312  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3098649713483277)
+slot:  0  avg power:  -0.362169122156  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3067663216348444)
+slot:  1  avg power:  -0.63312788196  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.313698658418496)
+slot:  2  avg power:  -57.163082851  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.310561671834311)
+slot:  0  avg power:  -0.611419444202  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3074560551159679)
+slot:  1  avg power:  -0.542315561609  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.31438149456480824)
+slot:  2  avg power:  -57.1878749767  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.31123767961916016)
+slot:  0  avg power:  -0.537028123647  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.30812530282296857)
+slot:  1  avg power:  -0.570650054731  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3150440497947389)
+slot:  2  avg power:  -57.029710939  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3118936092967915)
+slot:  0  avg power:  -0.602711108065  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.30877467320382357)
+slot:  1  avg power:  -0.272771267476  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3156869264717853)
+slot:  2  avg power:  -57.077291664  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.31253005720706745)
+slot:  0  avg power:  -0.341474888821  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3094047566349968)
+slot:  1  avg power:  -0.64182066545  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.31631070906864683)
+slot:  2  avg power:  -57.1359478414  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3131476019779604)
+slot:  0  avg power:  -0.589936825806  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3100161259581808)
+slot:  1  avg power:  -0.595941875671  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.316915964698599)
+slot:  2  avg power:  -57.1928546666  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.313746805051613)
+slot:  0  avg power:  -0.377592509871  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3106093370010969)
+slot:  1  avg power:  -0.253913369387  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3175032436310859)
+slot:  2  avg power:  -57.1129369893  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.31432821119477505)
+slot:  0  avg power:  -0.328437885082  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3111849290828273)
+slot:  1  avg power:  -0.379955827724  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.31807307979199906)
+slot:  2  avg power:  -57.1583516121  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3148923489940791)
+slot:  0  avg power:  -0.0818553116505  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3117434255041383)
+slot:  1  avg power:  -0.0773544497232  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3186259912490969)
+slot:  2  avg power:  -57.1393021986  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3154397313366059)
+slot:  0  avg power:  -0.0572814878359  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3122853340232398)
+slot:  1  avg power:  -0.0925473557201  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.31916248068300745)
+slot:  2  avg power:  -57.1383288957  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3159708558761774)
+slot:  0  avg power:  -0.129514686293  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.3128111473174156)
+slot:  1  avg power:  -0.658242626855  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.31968303584424146)
+slot:  2  avg power:  -57.0299599715  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.31648620548579903)
+slot:  0  avg power:  -0.605432384056  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.31332134343094104)
+slot:  1  avg power:  -0.210312441381  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.32018812999663165)
+slot:  2  avg power:  -57.1367511427  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.3169862486966653)
+slot:  0  avg power:  -0.679393586996  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.31381638620969865)
+slot:  1  avg power:  -0.261889907718  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3206782223476017)
+slot:  2  avg power:  -57.1394654865  sensing status:  1
+('s ', '001', ' a ', 0, ' r ', 0, ' s_ ', '010', 'avg_r ', 0.31747144012412565)
+slot:  0  avg power:  -0.352618243415  sensing status:  2
+('s ', '010', ' a ', 0, ' r ', 0, ' s_ ', '100', 'avg_r ', 0.31429672572288436)
+slot:  1  avg power:  -0.16133745127  sensing status:  2
+('s ', '100', ' a ', 1, ' r ', 1, ' s_ ', '001', 'avg_r ', 0.3211537584656555)
+slot:  2  avg power:  -57.1805355264  sensing status:  1
+
